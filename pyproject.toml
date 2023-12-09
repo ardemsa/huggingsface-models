@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "huggingface"
+name = "huggingface-models"
 version = "0.1.0"
 description = ""
 authors = ["Ariana"]
